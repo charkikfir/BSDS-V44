@@ -7,7 +7,7 @@ ANDROID 2 (GOOGLE DRIVE) : https://drive.google.com/file/d/1zKy632blJDJV7YuBnUZe
 Server ZIP: https://github.com/CrazorTheCat/BSDS-V44/archive/refs/heads/master.zip
 
 ## Requirements: ##
-1. a brain...
+1. a brain... idk
 
 ## How to play BSDS: ##
 1. download server and apk
